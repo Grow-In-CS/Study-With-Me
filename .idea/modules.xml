@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Study-With-Me.iml" filepath="$PROJECT_DIR$/.idea/Study-With-Me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.스터디 내용 정리/현철/1. 디자인 패턴과 프로그래밍 패러다임/structuralpattern/adapter/adapter.iml" filepath="$PROJECT_DIR$/0.스터디 내용 정리/현철/1. 디자인 패턴과 프로그래밍 패러다임/structuralpattern/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.스터디 내용 정리/현철/1. 디자인 패턴과 프로그래밍 패러다임/structuralpattern/decorator/decorator.iml" filepath="$PROJECT_DIR$/0.스터디 내용 정리/현철/1. 디자인 패턴과 프로그래밍 패러다임/structuralpattern/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.스터디 내용 정리/현철/1. 디자인 패턴과 프로그래밍 패러다임/structuralpattern/proxy/proxy.iml" filepath="$PROJECT_DIR$/0.스터디 내용 정리/현철/1. 디자인 패턴과 프로그래밍 패러다임/structuralpattern/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.스터디 내용 정리/민경/민경.iml" filepath="$PROJECT_DIR$/0.스터디 내용 정리/민경/민경.iml" />
+    </modules>
+  </component>
+</project>
